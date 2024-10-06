@@ -1,7 +1,7 @@
 name: Feed Report
-description: A feed does not work?
+description: "A feed does not work? Type of feed: RSS / Atom, JSON Feed, JSON (dot notation)"
 title: "[Feed problem] "
-labels: ["Feed Problem"]
+labels: ["Feed problem 🗞️"]
 body:
   - type: markdown
     attributes:
@@ -12,7 +12,7 @@ body:
     attributes:
       label: Feed URL
       description: Share the URL of the feed
-      placeholder: https://...
+      placeholder: https://…
     validations:
       required: true
   - type: textarea
