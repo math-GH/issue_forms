@@ -1,5 +1,5 @@
 name: Feed Report
-description: "A feed does not work? Type of feed: RSS / Atom, JSON Feed, JSON (dot notation).\n\n--"
+description: "A feed does not work? Type of feed: RSS / Atom, JSON Feed, JSON (dot notation). "
 title: "[Feed problem] "
 labels: ["Feed problem 🗞️"]
 body:
